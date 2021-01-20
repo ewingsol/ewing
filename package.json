@@ -2,6 +2,7 @@
   "name": "now-ui-kit-react",
   "version": "1.0.0",
   "private": true,
+  "homepage": "http://ewingsol.github.io/ewing"
   "dependencies": {
     "framer-motion": "^1.11.0",
     "moment": "2.24.0",
@@ -21,6 +22,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
