@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2ed9b511128c6bbd6ce6d88c61eb6d6",
+    "revision": "d92ff2e98ddcd912d718524feada737d",
     "url": "/ewing/index.html"
   },
   {
-    "revision": "6fdf167ecd19801b38dc",
+    "revision": "d06bc7231d4bfc1aa722",
     "url": "/ewing/static/css/main.c31c4f81.chunk.css"
   },
   {
-    "revision": "0b810ed334cf674e73a3",
-    "url": "/ewing/static/js/2.f4a9a939.chunk.js"
+    "revision": "7214973582dfc0f1264d",
+    "url": "/ewing/static/js/2.1949bb63.chunk.js"
   },
   {
-    "revision": "6fdf167ecd19801b38dc",
-    "url": "/ewing/static/js/main.38c240e2.chunk.js"
+    "revision": "d06bc7231d4bfc1aa722",
+    "url": "/ewing/static/js/main.359d3419.chunk.js"
   },
   {
     "revision": "48b7e62d96e3afcedb34",
@@ -24,16 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ewing/static/media/Dan20.42e8667b.jpg"
   },
   {
-    "revision": "70fbfca90513c6897d24b75632710124",
-    "url": "/ewing/static/media/Katie20.70fbfca9.jpg"
+    "revision": "a88cb971ac6d80537e9fcd90d355b763",
+    "url": "/ewing/static/media/Katie20.a88cb971.jpeg"
   },
   {
     "revision": "4e759ffb2d3f7c0a3656be6a12c0a9bb",
     "url": "/ewing/static/media/atlanta.4e759ffb.jpg"
-  },
-  {
-    "revision": "b21019516fd574253e2354080dc1dd00",
-    "url": "/ewing/static/media/login.b2101951.jpg"
   },
   {
     "revision": "22a0bffe789c286a9d78eb52670996a7",
@@ -68,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ewing/static/media/text560.a6441f78.png"
   },
   {
-    "revision": "20ba8b82a7d309e5fa7e6795a6d10346",
-    "url": "/ewing/static/media/track.20ba8b82.jpg"
+    "revision": "47e102f72f8006d76456c93f2ed68500",
+    "url": "/ewing/static/media/track.47e102f7.jpg"
   }
 ]);
